@@ -6,5 +6,6 @@ then download yolo and tiny yolo weight from this link and make a 'bin' folder:
 https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU
 
 add the codes files to the setup files
+
 for youtube channel:
 https://www.youtube.com/channel/UCr9vSJUIvrmtxwOBH4sx2TQ
