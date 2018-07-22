@@ -7,5 +7,5 @@ https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU
 
 add the codes files to the setup files
 
-for youtube channel:
-https://www.youtube.com/channel/UCr9vSJUIvrmtxwOBH4sx2TQ
+for project output videos:
+https://www.youtube.com/playlist?list=PLoUjqaiWLJIiESF-xR0k6wse2FWv9tJ6z
